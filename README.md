@@ -21,3 +21,5 @@ This project is built using Python. To set up and run this project, follow these
 git clone https://github.com/yourusername/weather-data-monitoring.git
 cd weather-data-monitoring
 pip install -r requirements.txt
+
+## Data Collection
